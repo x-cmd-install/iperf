@@ -7,7 +7,7 @@ about:
   head: c9b7422
   archived: false
   latestVersion: 3.21
-  collectedAt: 2026-09-04T19:27:47Z
+  collectedAt: 2026-09-04T21:03:47Z
 timeline:
   created: 2014-02-25
   lastCommit: 2026-07-10
@@ -87,6 +87,84 @@ total:
   openIssue: 158
   commit: 1756
 ---
+path: /home/runner/.x-repo/github.com/esnet/iperf
+collectedAt: 2026-09-04T21:03:48Z
+loc:
+  C:
+    code: 14099
+    comments: 2212
+    blanks: 2078
+    files: 26
+  Sh:
+    code: 8833
+    comments: 2167
+    blanks: 1301
+    files: 7
+  M4:
+    code: 7986
+    comments: 2256
+    blanks: 950
+    files: 4
+  Autoconf:
+    code: 3228
+    comments: 166
+    blanks: 367
+    files: 6
+  CHeader:
+    code: 1688
+    comments: 789
+    blanks: 364
+    files: 17
+  ReStructuredText:
+    code: 1516
+    comments: 0
+    blanks: 514
+    files: 8
+  Html:
+    code: 190
+    comments: 1
+    blanks: 13
+    files: 3
+  Makefile:
+    code: 143
+    comments: 6
+    blanks: 28
+    files: 1
+  Python:
+    code: 141
+    comments: 161
+    blanks: 97
+    files: 2
+  Automake:
+    code: 96
+    comments: 7
+    blanks: 18
+    files: 3
+  Css:
+    code: 76
+    comments: 3
+    blanks: 5
+    files: 1
+  Dockerfile:
+    code: 6
+    comments: 9
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1083
+    blanks: 501
+    files: 2
+  Text:
+    code: 0
+    comments: 116
+    blanks: 34
+    files: 3
+total:
+  code: 38002
+  comments: 8976
+  blanks: 6270
+  files: 84
 ---
 date: "2026-08-24"
 repo:
