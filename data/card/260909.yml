@@ -7,7 +7,7 @@ about:
   latestVersion: "3.21"
   latestRelease: "3.21"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:27:05Z
+  collectedAt: 2026-09-09T18:18:40Z
 timeline:
   created: 2014-02-25
   lastCommit: 2026-07-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-04-09
   lastPrerelease: 
 popularity:
-  star: 8743
+  star: 8744
   watcher: 225
-  fork: 1445
+  fork: 1444
   release: 12
   contributor: 151
   pullRequest: 655
@@ -56,7 +56,7 @@ recent:
     openPR: 12
     closedIssue: 0
     openIssue: 7
-    commit: 1
+    commit: 0
   last180d:
     since: 2026-03-13
     release: 1
@@ -64,7 +64,7 @@ recent:
     openPR: 17
     closedIssue: 5
     openIssue: 12
-    commit: 26
+    commit: 0
   last360d:
     since: 2025-09-14
     release: 2
@@ -72,7 +72,7 @@ recent:
     openPR: 23
     closedIssue: 17
     openIssue: 22
-    commit: 74
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 5
@@ -90,7 +90,7 @@ total:
   commit: 1756
 ---
 path: /home/runner/.x-repo/github.com/esnet/iperf
-collectedAt: 2026-09-09T04:27:07Z
+collectedAt: 2026-09-09T18:18:43Z
 loc:
   C:
     code: 14099
