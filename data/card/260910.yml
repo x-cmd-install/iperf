@@ -7,7 +7,7 @@ about:
   latestVersion: "3.21"
   latestRelease: "3.21"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:24:47Z
+  collectedAt: 2026-09-10T15:50:09Z
 timeline:
   created: 2014-02-25
   lastCommit: 2026-07-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-04-09
   lastPrerelease: 
 popularity:
-  star: 8744
+  star: 8747
   watcher: 225
-  fork: 1445
+  fork: 1446
   release: 12
   contributor: 151
   pullRequest: 656
@@ -90,7 +90,7 @@ total:
   commit: 1756
 ---
 path: /home/runner/.x-repo/github.com/esnet/iperf
-collectedAt: 2026-09-10T04:24:50Z
+collectedAt: 2026-09-10T15:50:12Z
 loc:
   C:
     code: 14099
