@@ -23,11 +23,17 @@ x install iperf
 - **Latest**: `3.21` (2026-04-09)
 - **Last commit**: 2026-07-10
 - **Assets in release**: 2
-- **Published**: 2026-04-09T19:22:56Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [iperf-3.21.tar.gz](https://github.com/esnet/iperf/releases/download/3.21/iperf-3.21.tar.gz) | 691.4 KiB | `native/unknown` |
+| [iperf-3.21.tar.gz.sha256](https://github.com/esnet/iperf/releases/download/3.21/iperf-3.21.tar.gz.sha256) | 84 B | `other` |
 
 ## Popularity
 
-- **Stars**: 8,744 · **Forks**: 1,445 · **Open issues**: 1,190 · **Contributors**: 151
+- **Stars**: 8,747 · **Forks**: 1,446 · **Open issues**: 1,190 · **Contributors**: 151
 
 ## Totals (cumulative)
 
@@ -68,8 +74,8 @@ Lowest-scoring checks:
 Install metadata for iperf lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `iperf` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/iperf.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/iperf.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:24:54Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:50:16Z._

@@ -4,7 +4,7 @@
 
 iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 
-![iperf](https://repo.x-cmd.io/iperf.svg)
+![iperf](https://repo.x-cmd.io/iperf.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,17 @@ x install iperf
 - **最新版本**: `3.21` (2026-04-09)
 - **最近提交**: 2026-07-10
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-04-09T19:22:56Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [iperf-3.21.tar.gz](https://github.com/esnet/iperf/releases/download/3.21/iperf-3.21.tar.gz) | 691.4 KiB | `native/unknown` |
+| [iperf-3.21.tar.gz.sha256](https://github.com/esnet/iperf/releases/download/3.21/iperf-3.21.tar.gz.sha256) | 84 B | `other` |
 
 ## 流行度
 
-- **Star**: 8,744 · **Fork**: 1,445 · **开放 issue**: 1,190 · **贡献者**: 151
+- **Star**: 8,747 · **Fork**: 1,446 · **开放 issue**: 1,190 · **贡献者**: 151
 
 ## 累计统计
 
@@ -72,4 +78,4 @@ iperf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:24:55Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:50:17Z._
