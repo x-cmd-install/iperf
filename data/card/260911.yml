@@ -7,7 +7,7 @@ about:
   latestVersion: "3.21"
   latestRelease: "3.21"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:24:21Z
+  collectedAt: 2026-09-11T20:38:44Z
 timeline:
   created: 2014-02-25
   lastCommit: 2026-07-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-04-09
   lastPrerelease: 
 popularity:
-  star: 8747
-  watcher: 225
-  fork: 1446
+  star: 8751
+  watcher: 226
+  fork: 1447
   release: 12
   contributor: 151
   pullRequest: 656
-  issue: 1190
+  issue: 1191
 language:
   C: 685788
   Shell: 407443
@@ -39,7 +39,7 @@ recent:
     mergedPR: 0
     openPR: 6
     closedIssue: 0
-    openIssue: 1
+    openIssue: 2
     commit: 0
   last60d:
     since: 2026-07-13
@@ -47,7 +47,7 @@ recent:
     mergedPR: 0
     openPR: 8
     closedIssue: 0
-    openIssue: 3
+    openIssue: 4
     commit: 0
   last90d:
     since: 2026-06-13
@@ -55,7 +55,7 @@ recent:
     mergedPR: 0
     openPR: 13
     closedIssue: 0
-    openIssue: 7
+    openIssue: 8
     commit: 1
   last180d:
     since: 2026-03-15
@@ -63,7 +63,7 @@ recent:
     mergedPR: 17
     openPR: 18
     closedIssue: 5
-    openIssue: 12
+    openIssue: 13
     commit: 26
   last360d:
     since: 2025-09-16
@@ -71,7 +71,7 @@ recent:
     mergedPR: 44
     openPR: 24
     closedIssue: 17
-    openIssue: 22
+    openIssue: 23
     commit: 74
   last720d:
     since: 2024-09-21
@@ -79,18 +79,18 @@ recent:
     mergedPR: 91
     openPR: 39
     closedIssue: 50
-    openIssue: 53
+    openIssue: 54
     commit: 249
 total:
   release: 12
   mergedPR: 446
   openPR: 78
   closedIssue: 1032
-  openIssue: 158
+  openIssue: 159
   commit: 1756
 ---
 path: /home/runner/.x-repo/github.com/esnet/iperf
-collectedAt: 2026-09-11T04:24:25Z
+collectedAt: 2026-09-11T20:38:46Z
 loc:
   C:
     code: 14099
