@@ -14,11 +14,11 @@ x install iperf
 
 ## Code insight
 
-Total: **38,634** lines of code across **60** files in the top 5 languages.
+Total: **38,632** lines of code across **60** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 14,110 | 2,216 | 2,079 | 26 |
+| C | 14,108 | 2,216 | 2,079 | 26 |
 | Sh | 8,964 | 2,194 | 1,308 | 7 |
 | M4 | 8,402 | 2,288 | 992 | 4 |
 | Autoconf | 3,285 | 167 | 369 | 6 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.22` (2026-09-29)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-02
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 8,791 · **Forks**: 1,456 · **Open issues**: 1,192 · **Contributors**: 151
+- **Stars**: 8,794 · **Forks**: 1,455 · **Open issues**: 1,195 · **Contributors**: 151
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 447 · **Open PRs**: 82 · **Closed issues**: 1032 · **Open issues**: 160 · **Commits**: 1771
+- **Releases**: 13 · **Merged PRs**: 448 · **Open PRs**: 82 · **Closed issues**: 1033 · **Open issues**: 162 · **Commits**: 1775
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 1 | 1 | 5 | 0 | 2 | 5 |
-| last60d | 2026-08-03 | 1 | 1 | 10 | 0 | 3 | 5 |
-| 90d | 2026-07-04 | 1 | 1 | 14 | 0 | 7 | 8 |
-| last180d | 2026-04-05 | 2 | 14 | 22 | 4 | 13 | 30 |
-| 360d | 2025-10-07 | 3 | 37 | 26 | 14 | 23 | 74 |
-| last720d | 2024-10-12 | 6 | 90 | 40 | 48 | 55 | 262 |
+| 30d | 2026-09-03 | 1 | 2 | 5 | 1 | 4 | 8 |
+| last60d | 2026-08-04 | 1 | 2 | 10 | 1 | 5 | 8 |
+| 90d | 2026-07-05 | 1 | 2 | 14 | 1 | 9 | 11 |
+| last180d | 2026-04-06 | 2 | 15 | 22 | 5 | 15 | 33 |
+| 360d | 2025-10-08 | 3 | 37 | 26 | 15 | 25 | 77 |
+| last720d | 2024-10-13 | 6 | 91 | 40 | 49 | 57 | 266 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for iperf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:23:37Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:06:18Z._
