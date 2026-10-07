@@ -26,12 +26,12 @@ x install iperf
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.5 / 10**
+总评分: **5.8 / 10**
 
 评分最低的几项:
 
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 7/21 approved changesets -- score normalized to 3
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
@@ -48,7 +48,7 @@ x install iperf
 
 ## 流行度
 
-- **Star**: 8,798 · **Fork**: 1,456 · **开放 issue**: 1,195 · **贡献者**: 151
+- **Star**: 8,800 · **Fork**: 1,458 · **开放 issue**: 1,195 · **贡献者**: 151
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install iperf
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 2 | 5 | 1 | 4 | 8 |
-| last60d | 2026-08-07 | 1 | 2 | 10 | 1 | 5 | 8 |
-| 90d | 2026-07-08 | 1 | 2 | 12 | 1 | 9 | 9 |
-| last180d | 2026-04-09 | 2 | 14 | 22 | 4 | 15 | 25 |
-| 360d | 2025-10-11 | 3 | 37 | 26 | 15 | 25 | 77 |
-| last720d | 2024-10-16 | 6 | 91 | 40 | 48 | 56 | 266 |
+| 30d | 2026-09-07 | 1 | 2 | 5 | 1 | 4 | 8 |
+| last60d | 2026-08-08 | 1 | 2 | 10 | 1 | 5 | 8 |
+| 90d | 2026-07-09 | 1 | 2 | 12 | 1 | 9 | 9 |
+| last180d | 2026-04-10 | 1 | 14 | 22 | 4 | 15 | 25 |
+| 360d | 2025-10-12 | 3 | 37 | 26 | 15 | 25 | 77 |
+| last720d | 2024-10-17 | 6 | 91 | 40 | 47 | 56 | 266 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ iperf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T06:06:27Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T05:42:00Z._
