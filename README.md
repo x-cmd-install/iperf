@@ -14,7 +14,7 @@ x install iperf
 
 ## Code insight
 
-Total: **38,636** lines of code across **60** files in the top 5 languages.
+Total: **38,651** lines of code across **60** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **38,636** lines of code across **60** files in the top 5 languages.
 | Sh | 8,964 | 2,194 | 1,308 | 7 |
 | M4 | 8,402 | 2,288 | 992 | 4 |
 | Autoconf | 3,285 | 167 | 369 | 6 |
-| CHeader | 1,688 | 789 | 364 | 17 |
+| CHeader | 1,703 | 790 | 366 | 17 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.22` (2026-09-29)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-12
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 8,811 · **Forks**: 1,458 · **Open issues**: 1,195 · **Contributors**: 152
+- **Stars**: 8,815 · **Forks**: 1,460 · **Open issues**: 1,195 · **Contributors**: 152
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 451 · **Open PRs**: 80 · **Closed issues**: 1034 · **Open issues**: 161 · **Commits**: 1783
+- **Releases**: 13 · **Merged PRs**: 453 · **Open PRs**: 78 · **Closed issues**: 1034 · **Open issues**: 161 · **Commits**: 1788
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 3 | 4 | 1 | 3 | 12 |
-| last60d | 2026-08-13 | 1 | 3 | 9 | 1 | 5 | 13 |
-| 90d | 2026-07-14 | 1 | 3 | 11 | 2 | 6 | 14 |
-| last180d | 2026-04-15 | 1 | 15 | 19 | 5 | 13 | 28 |
-| 360d | 2025-10-17 | 3 | 40 | 24 | 16 | 24 | 82 |
-| last720d | 2024-10-22 | 6 | 93 | 38 | 48 | 55 | 271 |
+| 30d | 2026-09-13 | 1 | 4 | 2 | 1 | 3 | 14 |
+| last60d | 2026-08-14 | 1 | 5 | 6 | 1 | 5 | 16 |
+| 90d | 2026-07-15 | 1 | 5 | 9 | 2 | 6 | 17 |
+| last180d | 2026-04-16 | 1 | 17 | 17 | 5 | 13 | 31 |
+| 360d | 2025-10-18 | 3 | 42 | 22 | 16 | 24 | 85 |
+| last720d | 2024-10-23 | 6 | 95 | 35 | 48 | 55 | 276 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for iperf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T05:44:10Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:39:19Z._
