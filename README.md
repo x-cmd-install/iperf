@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,859 · **Forks**: 1,469 · **Open issues**: 1,195 · **Contributors**: 152
+- **Stars**: 8,857 · **Forks**: 1,468 · **Open issues**: 1,195 · **Contributors**: 152
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 2 | 9 | 0 | 0 | 1 |
-| last60d | 2026-09-04 | 1 | 5 | 13 | 2 | 3 | 15 |
-| 90d | 2026-08-05 | 1 | 6 | 17 | 2 | 4 | 17 |
-| last180d | 2026-05-07 | 1 | 14 | 26 | 4 | 11 | 29 |
-| 360d | 2025-11-08 | 3 | 42 | 30 | 17 | 21 | 83 |
-| last720d | 2024-11-13 | 6 | 94 | 44 | 48 | 53 | 270 |
+| 30d | 2026-10-05 | 0 | 2 | 9 | 0 | 0 | 1 |
+| last60d | 2026-09-05 | 1 | 5 | 13 | 2 | 3 | 15 |
+| 90d | 2026-08-06 | 1 | 6 | 17 | 2 | 4 | 17 |
+| last180d | 2026-05-08 | 1 | 14 | 26 | 4 | 11 | 29 |
+| 360d | 2025-11-09 | 3 | 42 | 30 | 17 | 21 | 83 |
+| last720d | 2024-11-14 | 6 | 94 | 44 | 48 | 53 | 270 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for iperf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:28:26Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T05:59:46Z._
