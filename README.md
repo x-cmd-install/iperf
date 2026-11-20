@@ -14,7 +14,7 @@ x install iperf
 
 ## Code insight
 
-Total: **38,657** lines of code across **60** files in the top 5 languages.
+Total: **38,664** lines of code across **60** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `3.22` (2026-09-29)
-- **Last commit**: 2026-11-13
+- **Latest**: `3.22.1` (2026-11-20)
+- **Last commit**: 2026-11-20
 - **Assets in release**: 2
 
 ## Popularity
@@ -52,25 +52,25 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 457 · **Open PRs**: 101 · **Closed issues**: 1040 · **Open issues**: 162 · **Commits**: 1794
+- **Releases**: 14 · **Merged PRs**: 458 · **Open PRs**: 101 · **Closed issues**: 1040 · **Open issues**: 162 · **Commits**: 1796
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 2 | 22 | 1 | 6 | 3 |
-| last60d | 2026-09-20 | 1 | 8 | 25 | 3 | 8 | 18 |
-| 90d | 2026-08-21 | 1 | 8 | 28 | 3 | 10 | 19 |
-| last180d | 2026-05-23 | 1 | 15 | 39 | 5 | 15 | 28 |
-| 360d | 2025-11-24 | 2 | 42 | 43 | 15 | 26 | 78 |
-| last720d | 2024-11-29 | 6 | 94 | 58 | 49 | 57 | 269 |
+| 30d | 2026-10-21 | 1 | 3 | 22 | 1 | 6 | 5 |
+| last60d | 2026-09-21 | 2 | 9 | 25 | 3 | 8 | 20 |
+| 90d | 2026-08-22 | 2 | 9 | 28 | 3 | 10 | 21 |
+| last180d | 2026-05-24 | 2 | 16 | 36 | 5 | 15 | 30 |
+| 360d | 2025-11-25 | 3 | 43 | 43 | 15 | 26 | 80 |
+| last720d | 2024-11-30 | 7 | 95 | 58 | 49 | 57 | 271 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [iperf-3.22.tar.gz](https://github.com/esnet/iperf/releases/download/3.22/iperf-3.22.tar.gz) | 829.4 KiB | `native/unknown` |
-| [iperf-3.22.tar.gz.sha256](https://github.com/esnet/iperf/releases/download/3.22/iperf-3.22.tar.gz.sha256) | 84 B | `other` |
+| [iperf-3.22.1.tar.gz](https://github.com/esnet/iperf/releases/download/3.22.1/iperf-3.22.1.tar.gz) | 831.6 KiB | `native/unknown` |
+| [iperf-3.22.1.tar.gz.sha256](https://github.com/esnet/iperf/releases/download/3.22.1/iperf-3.22.1.tar.gz.sha256) | 86 B | `other` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for iperf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:08:27Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T06:59:08Z._
