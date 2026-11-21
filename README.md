@@ -14,11 +14,11 @@ x install iperf
 
 ## Code insight
 
-Total: **38,664** lines of code across **60** files in the top 5 languages.
+Total: **38,682** lines of code across **60** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 14,118 | 2,236 | 2,083 | 26 |
+| C | 14,136 | 2,236 | 2,084 | 26 |
 | Sh | 8,964 | 2,194 | 1,308 | 7 |
 | M4 | 8,402 | 2,288 | 992 | 4 |
 | Autoconf | 3,285 | 167 | 369 | 6 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,890 · **Forks**: 1,473 · **Open issues**: 1,202 · **Contributors**: 153
+- **Stars**: 8,890 · **Forks**: 1,473 · **Open issues**: 1,202 · **Contributors**: 156
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 458 · **Open PRs**: 101 · **Closed issues**: 1040 · **Open issues**: 162 · **Commits**: 1796
+- **Releases**: 14 · **Merged PRs**: 461 · **Open PRs**: 100 · **Closed issues**: 1040 · **Open issues**: 162 · **Commits**: 1802
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 3 | 22 | 1 | 6 | 5 |
-| last60d | 2026-09-21 | 2 | 9 | 25 | 3 | 8 | 20 |
-| 90d | 2026-08-22 | 2 | 9 | 28 | 3 | 10 | 21 |
-| last180d | 2026-05-24 | 2 | 16 | 36 | 5 | 15 | 30 |
-| 360d | 2025-11-25 | 3 | 43 | 43 | 15 | 26 | 80 |
-| last720d | 2024-11-30 | 7 | 95 | 58 | 49 | 57 | 271 |
+| 30d | 2026-10-22 | 1 | 5 | 21 | 1 | 6 | 7 |
+| last60d | 2026-09-22 | 2 | 11 | 25 | 3 | 8 | 22 |
+| 90d | 2026-08-23 | 2 | 11 | 28 | 3 | 10 | 23 |
+| last180d | 2026-05-25 | 2 | 19 | 35 | 5 | 15 | 33 |
+| 360d | 2025-11-26 | 3 | 46 | 42 | 15 | 26 | 83 |
+| last720d | 2024-12-01 | 7 | 98 | 57 | 49 | 57 | 277 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for iperf lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T06:59:08Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T06:54:17Z._
