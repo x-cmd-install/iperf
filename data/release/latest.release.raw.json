@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 851587,
       "digest": "sha256:de018b5252e2a7068c89fac8b35a295d83334f2b7814aa9532a2a8107b04a4a9",
-      "download_count": 433,
+      "download_count": 524,
       "created_at": "2026-11-20T00:33:35Z",
       "updated_at": "2026-11-20T00:33:36Z",
       "browser_download_url": "https://github.com/esnet/iperf/releases/download/3.22.1/iperf-3.22.1.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 86,
       "digest": "sha256:ad23bf535ed84459afc5c86aae50f00a7017115a8f19685671ab624c6893e4e6",
-      "download_count": 20,
+      "download_count": 23,
       "created_at": "2026-11-20T00:34:38Z",
       "updated_at": "2026-11-20T00:34:38Z",
       "browser_download_url": "https://github.com/esnet/iperf/releases/download/3.22.1/iperf-3.22.1.tar.gz.sha256"
