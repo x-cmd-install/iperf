@@ -26,13 +26,13 @@ x install iperf
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6 / 10**
+总评分: **6.3 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install iperf
 ## 发布
 
 - **最新版本**: `3.22.1` (2026-11-20)
-- **最近提交**: 2026-11-24
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 8,903 · **Fork**: 1,477 · **开放 issue**: 1,204 · **贡献者**: 156
+- **Star**: 8,905 · **Fork**: 1,477 · **开放 issue**: 1,204 · **贡献者**: 157
 
 ## 累计统计
 
-- **发布数**: 14 · **已合并 PR**: 463 · **开放 PR**: 103 · **已关闭 issue**: 1040 · **开放 issue**: 164 · **提交数**: 1806
+- **发布数**: 14 · **已合并 PR**: 464 · **开放 PR**: 102 · **已关闭 issue**: 1040 · **开放 issue**: 164 · **提交数**: 1809
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 5 | 22 | 1 | 8 | 8 |
-| last60d | 2026-09-26 | 2 | 12 | 28 | 3 | 9 | 19 |
-| 90d | 2026-08-27 | 2 | 12 | 32 | 3 | 12 | 23 |
-| last180d | 2026-05-29 | 2 | 21 | 38 | 5 | 17 | 35 |
-| 360d | 2025-11-30 | 3 | 48 | 45 | 15 | 28 | 85 |
-| last720d | 2024-12-05 | 7 | 100 | 60 | 49 | 59 | 280 |
+| 30d | 2026-10-27 | 1 | 5 | 22 | 1 | 8 | 8 |
+| last60d | 2026-09-27 | 2 | 12 | 28 | 3 | 9 | 19 |
+| 90d | 2026-08-28 | 2 | 12 | 32 | 3 | 12 | 23 |
+| last180d | 2026-05-30 | 2 | 22 | 37 | 4 | 17 | 36 |
+| 360d | 2025-12-01 | 3 | 49 | 44 | 15 | 27 | 86 |
+| last720d | 2024-12-06 | 7 | 101 | 59 | 49 | 59 | 283 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ iperf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:13:38Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T08:00:26Z._
